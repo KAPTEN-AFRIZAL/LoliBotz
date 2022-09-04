@@ -1,7 +1,7 @@
 {
     "ownerNumber": ["6282135386424@s.whatsapp.net","6283199130971@s.whatsapp.net"],
     "ownerName": "KAPTEN AFRIZAL",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "instagram" : "https://youtube.com/c/KAPTENAFRIZAL404",
     "botName": "LoliBotz",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
@@ -13,7 +13,7 @@
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
