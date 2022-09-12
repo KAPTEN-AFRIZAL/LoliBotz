@@ -23,8 +23,8 @@ ${mundur}
  • Downloads : ${download}
 
 *BOT INFO*
- • Creator : KAPTEN AFRIZAL
- • Bot Name : LoliBotz
+ • Creator : ${ownerName}
+ • Bot Name : ${botName}
  • Time : ${jam}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
